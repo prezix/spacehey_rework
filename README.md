@@ -1,2 +1,2 @@
-# spacehey_rework
-[SpaceHey](https://spacehey.com/lindeb3rgue) - reworked his layout for me
+# spacehey-layout
+Assets for my [SpaceHey](https://spacehey.com/lindeb3rgue) layout.
